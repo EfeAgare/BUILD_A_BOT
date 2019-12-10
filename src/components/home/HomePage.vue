@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <div>
-      <img class="robot" src="../assets/robot-home.png"/>
+      <img class="robot" src="../../assets/robot-home.png"/>
     </div>
     <div class="get-started">
       <a href="">Get Started</a> Building your first robot!
